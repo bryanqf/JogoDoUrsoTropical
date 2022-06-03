@@ -10,4 +10,4 @@ e um fundo de por do sol. A animação é feita a partir do CSS e os processos i
 
 Utilizei no projeto HTML, CSS, JAVASCRIPT.
 
-A fonte do canal do youtube que eu usei deixarei aqui caso seja do interesse. https://www.youtube.com/watch?v=r9buAwVBDhA&ab_channel=ManualdoDev.
+Deixarei o canal do youtube aqui caso seja do interesse: https://www.youtube.com/watch?v=r9buAwVBDhA&ab_channel=ManualdoDev.
