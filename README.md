@@ -5,7 +5,7 @@ Eu acabei vendo um video muito interessante no youtube no do canal Manual do Dev
 eu tinha umas imagens no meu computador que havia editado a umas semanas atrás e decidi fazer uma adaptação do codigo com a 
 proposta tropical mas nem tanto.
 
-O jogo tem um sistema simples, os objetos andam, o personagem controlavel pula. Tem um background que é composto de cipós.
+O jogo tem um sistema simples, os objetos andam; o personagem controlavel pula; tem um background que é composto de cipós;
 e um fundo de por do sol. A animação é feita a partir do CSS e os processos interativos feitos com JavaScript.
 
 Utilizei no projeto HTML, CSS, JAVASCRIPT.
