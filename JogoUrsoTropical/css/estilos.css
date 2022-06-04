@@ -3,7 +3,24 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    background: rgba(9, 107, 9, 0.671);
+}
 
+button{
+    margin-top: 100px;
+    height: 50px;
+    width: 200px;
+    position: absolute;
+    left: calc( 50% - 100px);
+    border-radius: 5%;
+    background: #fec307;
+    color: white;
+    
+}
+button:hover{
+    animation: cresceBotao 2s infinite;
+}
 .board{
     height: 600px;
     width: 100%;
@@ -71,4 +88,11 @@
     to{
         right: 100%;
     }
+}
+@keyframes cresceBotao {
+       
+    to {
+       background: #fe6e07;
+    }
+    
 }
