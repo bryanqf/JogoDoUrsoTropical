@@ -66,7 +66,7 @@
 
 @keyframes cipoAnimacao {
     from{
-        right: -600px;
+        right: -1600px;
     }
     to{
         right: 100%;
